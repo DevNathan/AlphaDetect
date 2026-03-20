@@ -41,6 +41,12 @@ st.title("AlphaDetect")
 st.markdown("**Lightweight language detection engine based on alphabet frequency.**")
 st.markdown("텍스트를 입력하면 알파벳 DNA를 분석하여 언어를 판별합니다.")
 
+st.markdown("---")
+st.markdown("### 지원하는 언어 목록")
+for lang in LANG_MAP.values():
+    st.markdown(f"- **{lang}**")
+st.markdown("---")
+
 user_input = st.text_area("분석할 텍스트를 입력하십시오:", height=200)
 
 if st.button("분석 실행 (Analyze)"):
