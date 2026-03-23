@@ -2,7 +2,7 @@
 
 문자 분포(Alphabet Frequency) 데이터를 기반으로 텍스트의 언어 DNA를 추출하고 판별하는 경량화된 머신러닝 분류기입니다.
 
-🔗 **Live Demo:** [AlphaDetect Web App](https://alphadetect-sh5f4mqdxgka8crgq6nkip.streamlit.app/)
+🔗 **Live Demo:** [AlphaDetect Web App](https://alphadetect-kc2vqc6tt2uwmcbcbem5qp.streamlit.app/)
 📓 **Model Training (Colab):** [Jupyter Notebook](https://colab.research.google.com/drive/1s8i1kVEdblKCSZdQHqyZifrLWTrrJmtd#scrollTo=nmXT3jjHuFTH)
 
 ---
